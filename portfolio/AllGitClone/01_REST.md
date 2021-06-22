@@ -1,4 +1,4 @@
-## 🤔 Rest, Restful이란 무엇인가요?
+## 🤔 REST, RESTful이란 무엇인가요?
 
 ### REST의 의미
 
