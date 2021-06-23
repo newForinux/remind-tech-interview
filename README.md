@@ -9,6 +9,9 @@
 * [3. Retrofit + okHttp, 왜 썼나요?](https://github.com/newForinux/remind-tech-interview/blob/main/portfolio/AllGitClone/03_Retrofit_okHttp.md)
 
 ### jChecker (Engine)
+* [1. Java에서 어떻게 외부 프로세스를 실행하나요?](https://github.com/newForinux/remind-tech-interview/blob/main/portfolio/jChecker-Engine/01_ProcessBuilder.md)
+* [2. AST란?](https://github.com/newForinux/remind-tech-interview/blob/main/portfolio/jChecker-Engine/02_AST.md)
+* [3. 디자인 패턴에 대해 말씀해보세요.](https://github.com/newForinux/remind-tech-interview/blob/main/portfolio/jChecker-Engine/03_Design%20Pattern.md)
 
 ### jChecker (Web service)
 
