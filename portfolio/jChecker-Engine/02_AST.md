@@ -35,11 +35,11 @@ OOP의 5대 원칙은 <b>SOLID</b>라고 부릅니다.
 
 각각 SRP, OCP, LSP, DIP, ISP로 말할 수 있습니다.
 
-* <b>SRP (Single Responsibility Principle, 단일 책임 원칙)</b> : 객체는 하나의 책임만 가집니다.
+* <b>SRP (Single Responsibility Principle, 단일 책임 원칙)</b> : 객체는 하나의 책임만 가집니다. 클래스가 여러 책임을 가지면 결합도가 높아질 수 있습니다.
 * <b>OCP (Open-Closed Principle, 개방-폐쇄 원칙)</b> : 기존 코드를 변경하지 않고도 기능을 추가할 수 있어야 합니다.
 * <b>LSP (Liskov Substitution Principle, 리스코프 치환 원칙)</b> : 자식 클래스는 최소한 부모 클래스에서 가능한 행위를 할 수 있어야 합니다.
-* <b>DIP (Dependency Inversion Principle, 의존 역전 원칙)</b> : 의존 관계를 맺을 때, 거의 변화가 없는 것에 의존해야 합니다.
-* <b>ISP (Interface Segregation Principle, 인터페이스 분리 원칙)</b> : 클라이언트는 사용하지 않는 인터페이스에 의존하면 안 됩니다.
+* <b>DIP (Dependency Inversion Principle, 의존 역전 원칙)</b> : 의존 관계를 맺을 때, 거의 변화가 없는 것에 의존해야 합니다. 추상화된 인터페이스나 상위 클래스를 둘어 변화에 영향받지 않게 하는 것입니다.
+* <b>ISP (Interface Segregation Principle, 인터페이스 분리 원칙)</b> : 클라이언트는 사용하지 않는 인터페이스에 의존하면 안 됩니다. 단일 책임 원칙과 같은 문제의 다른 해결책으로, 인터페이스를 작은 단위로 분리시키는 것입니다.
 
 <br>
 
